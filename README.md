@@ -1,7 +1,7 @@
 
 ### Hi, I'm James! 👋
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
   
 ## 🛠 About Me
 I am a data engineer and full stack developer, working  at Modo25.
