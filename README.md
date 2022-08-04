@@ -5,11 +5,10 @@ Pronouns: He/Him
   
 ## 🛠 About Me
 I am a data engineer and full stack developer, working  at Modo25.
-
+- 🌱 I’m currently learning the GCP stack
   
 ## 🎓 Skills
 Python, SQL, JavaScript, HTM5, CSS3, SASS, PHP, Wordpress
-
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jamesdewes.com/projects)
