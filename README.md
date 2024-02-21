@@ -4,8 +4,11 @@
 Pronouns: He/Him
   
 ## 🛠 About Me
-I am a data engineer and full stack developer, working  at Modo25.
-- 🌱 I’m currently learning the GCP stack
+I am a data engineer, with experience of software engineering, analytics engineering, data analysis and web development I have a multi-discipline skillset that allows me to work across a range of challenges and projects.
+A graduate of the Open University I am keen on self driven learning and continue to study and improve my skills in my own time.
+- 🌱 I’m working on the GCP stack
+- 🚀 I’m currently learning Apache Beam
+- 🐿️ I’m trying out new project management techniques 
   
 ## 🎓 Skills
 Python, SQL, JavaScript, HTM5, CSS3, SASS, PHP, Wordpress
