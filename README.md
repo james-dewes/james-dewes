@@ -8,7 +8,7 @@ I am a data engineer, with experience of software engineering, analytics enginee
 Technology enthusiast with a proven track record of success in diverse roles. Self-motivated and results-oriented, with a strong ability to work independently and in teams.
 A graduate of the Open University.
 - 🌱 I’m working on the GCP stack
-- 🚀 I’m currently learning Apache Beam
+- 🚀 I’m currently learning about scaling
 - 🐿️ I’m trying out new project management techniques 
   
 ## 🎓 Skills
