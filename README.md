@@ -11,6 +11,7 @@ A graduate of the Open University.
 - 🚀 I’m currently learning about scaling
 - 🐿️ I’m trying out new project management techniques
 - 👯 I’m looking to collaborate on projects for the public good.
+- ⚡ Fun fact: There are 500 types of banana
   
 ## 🎓 Skills
 Python, SQL, JavaScript, HTM5, CSS3, SASS, PHP, Wordpress, Shopify
@@ -19,6 +20,7 @@ Python, SQL, JavaScript, HTM5, CSS3, SASS, PHP, Wordpress, Shopify
  - 🛠️ Woodworking
  - 🥾 Walking
  - 🏕️ Camping
+ 
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jamesdewes.com/projects)
@@ -38,5 +40,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+...
 -->
