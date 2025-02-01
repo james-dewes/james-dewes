@@ -20,6 +20,7 @@ Python, SQL, JavaScript, HTM5, CSS3, SASS, PHP, Wordpress, Shopify
  - 🛠️ Woodworking
  - 🥾 Walking
  - 🏕️ Camping
+ - 📚 Reading
  
   
 ## 🔗 Links
